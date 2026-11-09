@@ -54,7 +54,7 @@ Proofs are complete a few hours after stamping, once they are anchored in a Bitc
 | Material | Licence |
 |---|---|
 | Code (`scripts/`, `.github/`) | [MIT](LICENSE) |
-| Prime Rogue's own data, analysis and write-ups | [CC BY-NC 4.0](LICENSE-DATA) — credit "Prime Rogue Inc." Commercial use (including commercial media) needs written permission. |
+| Prime Rogue's own data, analysis and write-ups | [CC BY-NC 4.0](LICENSE-DATA) — credit "Prime Rogue Inc." Commercial use (including commercial media) needs written permission: contact@primerogueinc.com |
 | NASA FIRMS data | NASA open data. Credit: "NASA FIRMS (LANCE)". |
 | NOAA GOES and HMS data | Public domain (U.S. government). Credit: "NOAA". |
 | Copernicus Sentinel data and derivatives | Free, with credit: "Contains modified Copernicus Sentinel data [2026]". |
@@ -71,3 +71,7 @@ Commercial imagery (Planet, Vantor/Maxar, Airbus) is never stored here because i
 Please **do not** open issues or pull requests containing documents, tips or anything that identifies you — GitHub history is permanent and public. Send material through Signal (**Rubicon49.50**) or Proton email instead; see the archive page on primerogueinc.com. Contributors are credited or protected per their preference under the Canadian Association of Journalists' ethics guidelines.
 
 Corrections to code or methods are welcome as issues.
+
+## Contact
+
+contact@primerogueinc.com (licensing, permissions, general questions). For tips and documents, use Signal or Proton as described under Contributing.
