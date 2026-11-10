@@ -2794,6 +2794,506 @@
     "version": "2.0NRT",
     "first_seen_file": "data/firms/raw/VIIRS_NOAA20_NRT/2026-11-05_5d__fetched_20261110T033423Z.csv"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.217851,
+     52.636207
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3821",
+    "track": "5707",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.218294,
+     52.63621
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3820",
+    "track": "5707",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.539162,
+     53.149495
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3084",
+    "track": "3810",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.53961,
+     53.149497
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3083",
+    "track": "3810",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.540059,
+     53.149498
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3082",
+    "track": "3810",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.53871,
+     53.149763
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3085",
+    "track": "3809",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.540505,
+     53.14977
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "L",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3081",
+    "track": "3809",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.538259,
+     53.150031
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3086",
+    "track": "3808",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.538707,
+     53.150033
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3085",
+    "track": "3808",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.539156,
+     53.150034
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3084",
+    "track": "3808",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.539605,
+     53.150036
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3083",
+    "track": "3808",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.540053,
+     53.150038
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3082",
+    "track": "3808",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.538256,
+     53.1503
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "L",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3086",
+    "track": "3807",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.537805,
+     53.150568
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3087",
+    "track": "3806",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.538253,
+     53.15057
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3086",
+    "track": "3806",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.538702,
+     53.150572
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3085",
+    "track": "3806",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.53915,
+     53.150574
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "L",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3084",
+    "track": "3806",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.537353,
+     53.150836
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "L",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3088",
+    "track": "3805",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.537802,
+     53.150838
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3087",
+    "track": "3805",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.539147,
+     53.150843
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-10T18:17:00Z",
+    "acq_datetime_mdt": "2026-11-10 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-11-10",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3084",
+    "track": "3805",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_1d__fetched_20261110T211828Z.csv"
+   }
   }
  ]
 }
