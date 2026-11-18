@@ -3369,6 +3369,34 @@
     "track": "477",
     "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-10_2d__fetched_20261111T215747Z.csv"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.53892,
+     53.14946
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-17T20:12:00Z",
+    "acq_datetime_mdt": "2026-11-17 14:12 MDT",
+    "source": "VIIRS_NOAA21_NRT",
+    "satellite": "N21",
+    "instrument": "VIIRS",
+    "confidence": "n",
+    "frp": "2.8",
+    "daynight": "D",
+    "acq_date": "2026-11-17",
+    "acq_time": "2012",
+    "bright_ti4": "326.5",
+    "bright_ti5": "270.86",
+    "scan": "0.41",
+    "track": "0.37",
+    "version": "2.0NRT",
+    "first_seen_file": "data/firms/raw/VIIRS_NOAA21_NRT/2026-11-15_3d__fetched_20261118T005734Z.csv"
+   }
   }
  ]
 }
