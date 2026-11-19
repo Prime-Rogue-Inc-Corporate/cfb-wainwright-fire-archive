@@ -3397,6 +3397,31 @@
     "version": "2.0NRT",
     "first_seen_file": "data/firms/raw/VIIRS_NOAA21_NRT/2026-11-15_3d__fetched_20261118T005734Z.csv"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.36764,
+     52.424301
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-19T18:11:00Z",
+    "acq_datetime_mdt": "2026-11-19 12:11 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "L",
+    "daynight": "D",
+    "acq_date": "2026-11-19",
+    "acq_time": "1811",
+    "path": "039",
+    "row": "024",
+    "scan": "1310",
+    "track": "1266",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-11-15_5d__fetched_20261119T203623Z.csv"
+   }
   }
  ]
 }
